@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "GoogleGPT"
+    "message": "WhatsappGPT"
   },
   "appDesc": {
-    "message": "Csevegés a ChatGPT-dal minden Google-keresésnél."
+    "message": "Csevegés a ChatGPT-dal minden Whatsapp-keresésnél."
   }
 }

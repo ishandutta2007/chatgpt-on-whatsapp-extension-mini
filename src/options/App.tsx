@@ -70,14 +70,14 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
       <nav className="flex flex-row justify-between items-center mt-5 px-2">
         <div className="flex flex-row items-center gap-2">
           <img src={logo} className="w-10 h-10 rounded-lg" />
-          <span className="font-semibold">GoogleGPT(v{getExtensionVersion()})</span>
+          <span className="font-semibold">WhatsappGPT(v{getExtensionVersion()})</span>
         </div>
         <div className="flex flex-row gap-3">
           <a href="https://discord.gg/sXdRc6ZH" target="_blank" rel="noreferrer">
             Discord
           </a>
           <a
-            href="https://github.com/SingularityLabs-ai/chatgpt-on-google-extension/issues"
+            href="https://github.com/SingularityLabs-ai/chatgpt-on-whatsapp-extension/issues"
             target="_blank"
             rel="noreferrer"
           >
@@ -87,7 +87,7 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
             Twitter
           </a>
           <a
-            href="https://github.com/SingularityLabs-ai/chatgpt-on-google-extension"
+            href="https://github.com/SingularityLabs-ai/chatgpt-on-whatsapp-extension"
             target="_blank"
             rel="noreferrer"
           >

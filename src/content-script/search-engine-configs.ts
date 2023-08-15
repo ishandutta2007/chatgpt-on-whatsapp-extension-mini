@@ -7,7 +7,7 @@ export interface SearchEngine {
 }
 
 export const config: Record<string, SearchEngine> = {
-  google: {
+  whatsapp: {
     inputQuery: ['form textarea'],
     bodyQuery: ['form textarea'],
     sidebarContainerQuery: ['#rhs'],

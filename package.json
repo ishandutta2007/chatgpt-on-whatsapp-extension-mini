@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-on-google-extension",
+  "name": "chatgpt-on-whatsapp-extension",
   "author": "ishandutta2007",
   "scripts": {
     "build": "node build.mjs",

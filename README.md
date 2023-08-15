@@ -1,12 +1,12 @@
-# GoogleGPT
+# WhatsappGPT
 
-[link-chrome]: https://chrome.google.com/webstore/detail/googlegpt-chatgpt-on-goog/pabeminldebomngnkgffiejipjjaaogi?hl=en&authuser=0 'Chrome Web Store'
+[link-chrome]: https://chrome.web.whatsapp.com/webstore/detail/whatsappgpt-chatgpt-on-goog/pabeminldebomngnkgffiejipjjaaogi?hl=en&authuser=0 'Chrome Web Store'
 
 [<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
 ## Screenshot
 
-<img width="1418" alt="image" src="https://github.com/SingularityLabs-ai/chatgpt-on-google-extension/blob/main/screenshots/GGPT_Screenshot_1280x800.png">
+<img width="1418" alt="image" src="https://github.com/SingularityLabs-ai/chatgpt-on-whatsapp-extension/blob/main/screenshots/GGPT_Screenshot_1280x800.png">
 
 ## Troubleshooting
 
@@ -33,3 +33,4 @@ Enable "Allow access to search page results" in the extension management page
 
 This project is inspired by [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) and https://github.com/wong2/chatgpt-google-extension
 This project is inspired by [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) and wong2/chatgpt-google-extension
+
